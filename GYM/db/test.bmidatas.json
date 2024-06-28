@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6678620c47eeca2cf2082fc8"
+  },
+  "height": 170,
+  "weight": 70,
+  "gender": "Female",
+  "bmi": 24.221453287197235,
+  "createdAt": {
+    "$date": "2024-06-23T17:57:32.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66786293664f8233b34a82dc"
+  },
+  "height": 160,
+  "weight": 70,
+  "gender": "Female",
+  "bmi": 27.34,
+  "createdAt": {
+    "$date": "2024-06-23T17:59:47.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667862d9664f8233b34a82de"
+  },
+  "height": 160,
+  "weight": 70,
+  "gender": "Female",
+  "bmi": 27.34,
+  "createdAt": {
+    "$date": "2024-06-23T18:00:57.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667862db664f8233b34a82e0"
+  },
+  "height": 160,
+  "weight": 70,
+  "gender": "Female",
+  "bmi": 27.34,
+  "createdAt": {
+    "$date": "2024-06-23T18:00:59.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667862db664f8233b34a82e2"
+  },
+  "height": 160,
+  "weight": 70,
+  "gender": "Female",
+  "bmi": 27.34,
+  "createdAt": {
+    "$date": "2024-06-23T18:00:59.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667862db664f8233b34a82e4"
+  },
+  "height": 160,
+  "weight": 70,
+  "gender": "Female",
+  "bmi": 27.34,
+  "createdAt": {
+    "$date": "2024-06-23T18:00:59.530Z"
+  },
+  "__v": 0
+}]
